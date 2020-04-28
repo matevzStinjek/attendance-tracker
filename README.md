@@ -1,4 +1,4 @@
-# openCV
+# Attendance Tracker
 ## Facial detection and recognition with openCV in C++
 
 ### Purpose:
